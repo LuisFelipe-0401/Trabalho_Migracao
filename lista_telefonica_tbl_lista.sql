@@ -43,7 +43,7 @@ CREATE TABLE `tbl_lista` (
 
 LOCK TABLES `tbl_lista` WRITE;
 /*!40000 ALTER TABLE `tbl_lista` DISABLE KEYS */;
-INSERT INTO `tbl_lista` VALUES (1,'Ednaldo Pereira Mestre','1990-12-07','98765432112','m','ednaldop@email.com'),(2,'Carlin BC','1990-12-12','11111111111','m','carolinbc@email.com'),(3,'Charlote R.','1990-12-13','22222222222','f','charlote@email.com'),(4,'Severina','1960-07-20','33333333333','f','severina123@email.com'),(10,'Marcos Pedro','0000-00-00','12345678901','m','marquinbrabo@email.com'),(11,'Zé do Peite','1965-08-21','44444444444','f','zedoleite@email.com');
+INSERT INTO `tbl_lista` VALUES (1,'Luffy Mestre','1990-12-11','98665539142','m','Luffymestre@email.com'),(2,'Zoro Roronoa','1990-12-12','11111111111','m','RoronoaZoro@email.com'),(3,'Sanji Vinsmoke','1990-12-13','22222222222','m','VinsmokeSanji@email.com'),(4,'Rimuru Tempest','1990-12-14','33333333333','m','TempestRimuru@email.com'),(5,'Naofume Tate','1990-12-15','12345678900','m','marquinbrabo@email.com'),(6,'Emma sword','1990-12-16','44444444444','f','EmmaSanzenSekai@email.com');
 /*!40000 ALTER TABLE `tbl_lista` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!50003 SET @saved_cs_client      = @@character_set_client */ ;
